@@ -1,4 +1,4 @@
-# Huffman_Compress
+# Standrad_Huffman
 compression algorithm implementation using java
 Compress:
   1-take an input sentence (one line) to be read from a file and compress it using  Standard Huffman
